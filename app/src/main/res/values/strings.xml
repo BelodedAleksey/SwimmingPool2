@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SwimmingPool</string>
+    <string name="appbar_scrolling_view_behavior"> </string>
+    <string name="section">Сеанс: %1$s</string>
+    <string-array name="days">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресение</item>
+    </string-array>
+    <string-array name="sessions">
+        <item>08:45</item>
+        <item>09:30</item>
+        <item>10:15</item>
+        <item>11:00</item>
+        <item>11:45</item>
+        <item>12:30</item>
+        <item>13:30</item>
+        <item>14:15</item>
+        <item>15:00</item>
+        <item>15:45</item>
+        <item>16:30</item>
+        <item>17:15</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>19:45</item>
+        <item>20:30</item>
+        <item>Бассейн закрыт</item>
+    </string-array>
+    <integer-array name="int_sessions">
+        <item>0</item>
+        <item>1</item>
+        <item>2358</item>
+        <item>2359</item>
+    </integer-array>
+</resources>
